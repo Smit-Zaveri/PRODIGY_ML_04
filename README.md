@@ -32,8 +32,7 @@ Additionally, it prints the test accuracy of the model and displays a heatmap of
 ![Model Accuracy](model_accuracy.png)
 
 ## Author
-[Your Name]
+[Smit Zaveri](https://github.com/Smit-Zaveri/)
 
 ## Acknowledgments
-- The dataset used in this script is obtained from [source link].
-- Inspiration for this script is derived from [source link].
+- The dataset used in this script is obtained from [\[source link\]](https://www.kaggle.com/datasets/gti-upm/leapgestrecog).
