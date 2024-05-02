@@ -21,6 +21,13 @@ This Python script implements a Convolutional Neural Network (CNN) for recognizi
 - Loss and accuracy plots are generated to visualize the training progress.
 - Finally, the model is evaluated on the test data and a confusion matrix is plotted to analyze the performance.
 
+## Video
+
+
+https://github.com/Smit-Zaveri/PRODIGY_ML_04/assets/104667864/ae8d3f07-2ecc-43e5-8bae-8fd9d8caa489
+
+
+
 ## Output
 The script generates two plots:
 1. Model Loss: Shows the loss during training on both training and test sets.
